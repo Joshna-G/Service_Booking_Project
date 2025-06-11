@@ -1,0 +1,11 @@
+.logo_img{
+  width: 60px;
+}
+
+
+/* service image */
+
+table tr td{
+  border: 1px solid black;
+  align-items: center;
+}
